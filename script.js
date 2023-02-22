@@ -39,7 +39,7 @@ const board = document.getElementById('board');
     top.append(headCell);
   }
   board.append(top);
-  // ??????????????
+ 
 
   // TODO: add comment for this code
   // for loop to create the number of rows in HTML board, and then a for loop is used again but for how many data squares (table data cell) are to be in each row. Each data cell is then also created an id which depend on its coordinates of y and x on each of the data-cells. 
